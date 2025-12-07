@@ -1,0 +1,5 @@
+{
+  "name": "VM Image Generator",
+  "description": "A responsive web application for generating AI images from text prompts using Google’s image generation models.",
+  "requestFramePermissions": []
+}
